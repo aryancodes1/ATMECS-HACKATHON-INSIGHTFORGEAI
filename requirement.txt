@@ -12,3 +12,5 @@ torch
 transformers
 groq
 googlesearch-python
+
+pip install streamlit pdfplumber sentence-transformers scikit-learn nltk beautifulsoup4 requests pandas sounddevice scipy torch transformers groq googlesearch-python
